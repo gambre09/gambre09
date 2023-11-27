@@ -1,7 +1,7 @@
 [![MasterHead](https://cdn-fphbc.nitrocdn.com/qoghzuucXCXzuGelskqTYEjAMqwfiisP/assets/images/optimized/rev-23e383c/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abhishek Gambre</h1>
 <h3 align="center">Computer Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1187278/screenshots/16762086/media/bc1qre8jdw2azrg6tf49wmp652w00xltddxmpk98xp.gif">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1187278/screenshots/16762086/media/bc1qre8jdw2azrg6tf49wmp652w00xltddxmpk98xp.gif](https://cdn.dribbble.com/users/1187278/screenshots/16762086/media/bc1qre8jdw2azrg6tf49wmp652w00xltddxmpk98xp.gif)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gambre09&label=Profile%20views&color=0e75b6&style=flat" alt="gambre09" /> </p>
 
 - 🔭 I’m currently working on **WPF Projects in Dotnet**
