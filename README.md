@@ -4,11 +4,11 @@
 <img align="right" alt="Coding" width="350" src="https://martinvalda.com/img/about.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gambre09&label=Profile%20views&color=0e75b6&style=flat" alt="gambre09" /> </p>
 
-- 🔭 I’m currently working on **WPF Projects in Dotnet**
+- 🔭 I’m currently working on **App Development**
 
-- 🌱 I’m currently learning **Dotnet, React**
+- 🌱 I’m currently learning **Java, Javascript**
 
-- 💬 Ask me about **App Development, System Integration, DBMS**
+- 💬 Ask me about **App Development, System Integration**
 
 - 📫 How to reach me **gambreabhishek@gmail.com** 
 
