@@ -4,11 +4,11 @@
 <img align="right" alt="Coding" width="350" src="https://martinvalda.com/img/about.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gambre09&label=Profile%20views&color=0e75b6&style=flat" alt="gambre09" /> </p>
 
-- 🔭 I’m currently working on **App Development**
+- 🔭 I’m currently working on **Frontend Development**
 
-- 🌱 I’m currently learning **Java, Javascript**
+- 🌱 I’m currently learning **HTML, CSS, Javascript, Reactjs**
 
-- 💬 Ask me about **App Development, System Integration**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **gambreabhishek@gmail.com** 
 
