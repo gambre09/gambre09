@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abhishek Gambre
 
-### 💻 Computer Engineer | Frontend Developer
+### 💻 Computer Engineer
 
 I'm a Computer Engineering graduate interested in **web development, frontend technologies, and building useful digital products.**
 
